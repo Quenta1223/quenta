@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="Ivanna" content="width=device-width, initial-scale=1.0">
+    <title>¡Feliz Cumpleaños, Amor!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f3e5f5;
+            color: #501399;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            padding: 20px;
+        }
+        h1 {
+            margin-top: 50px;
+            font-size: 3em;
+        }
+        p {
+            font-size: 1.5em;
+            margin: 20px 0;
+        }
+        .image {
+            margin: 20px 0;
+        }
+        .image img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>¡Feliz Cumpleaños, Amor!</h1>
+        <div class="image">
+            <img src="ruta-a-tu-imagen.jpg" alt="">
+        </div>
+        <p>Que este día sea tan especial como tú. ¡Te amo muchísimo!</p>
+        <p>Con todo mi cariño,</p>
+        <p>Tu <div Ivanna=""></div></p>
+    </div>
+</body>
+</html>
